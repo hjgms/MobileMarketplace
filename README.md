@@ -1,2 +1,0 @@
-# MobileMarketplace
-Project Marketplace
